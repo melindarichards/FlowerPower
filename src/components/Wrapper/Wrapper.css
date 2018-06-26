@@ -1,0 +1,12 @@
+.wrapper {
+  padding-top: 50px;
+	background-image: url("https://img.freepik.com/free-vector/green-leaves-branches-in-spring-background_7196-398.jpg?size=338&ext=jpg");
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+	overflow: auto;
+	padding-bottom: 50px;
+}

@@ -1,0 +1,10 @@
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 80px;
+	background-color: white;
+	color: rgb(2, 71, 28);
+	font-family: "Lucida Calligraphy", "Georgia", serif;
+	font-style: italic;
+  margin-bottom: 50px;
+}

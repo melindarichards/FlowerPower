@@ -1,0 +1,36 @@
+.card {
+  background: #fff;
+  border-radius: 2px;
+  height: 220px;
+  margin: .5rem;
+  position: relative;
+  width: 280px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  text-align: center;
+}
+
+.card > .img-container {
+  height: 80%;
+  overflow: hidden;
+	background: rgb(2, 71, 28);
+}
+.card > .img-container > img {
+  width: 100%
+}
+
+.card > .content {
+  padding-left: .5rem;
+	padding-right: .5rem;
+	color: rgb(2, 71, 28);
+	font-size: 16px;
+	font-family: "Lucida Calligraphy", "Georgia", serif;
+	font-style: italic;
+}
+
+.card > .content > ul {
+  list-style-type: none;
+}
+
+.card > .content > ul > li {
+  margin-top: 4px;
+}

@@ -1,0 +1,2 @@
+FlowerPower
+As you pick each flower to create your bouquet, a point will be added to your score. Don't be greedy, though! If you pick the same flower more than once, you will lose the game and have to start over.
